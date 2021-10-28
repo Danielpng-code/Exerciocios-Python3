@@ -17,7 +17,7 @@ if sorteio == 3:
 if sorteio == 4:
     print('O aluno sorteado foi o : {}' .format(alu4))
 
-"--------------------------------------------------------------------------"
+# -------------------------------------------------------------------------- #
 
 alu1 = str(input('Escreva o nome do primeiro aluno: '))
 alu2 = str(input('Escreva o nome do segundo aluno: '))
